@@ -1,6 +1,6 @@
 /* Required height of parents of the Full Page Intro and Intro itself */
 .timer-box {
-  background: rgba(10, 10, 10, 0.9);
+  background: rgba(24, 36, 71, 1);
   color: #fff;
   border-radius: 0.4em;
   font-family: "Barlow", sans-serif;
@@ -30,7 +30,7 @@ i {
 }
 
 a > i.social-icon:hover {
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.35);
+  text-shadow: 1px 1px 3px rgba(255, 199, 0, 1);
 }
 
 input:-webkit-autofill,
